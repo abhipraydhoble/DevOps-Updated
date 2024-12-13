@@ -1,4 +1,4 @@
-# Day 2: Source Code Management Tool (Git)
+$${\color{red}\textbf{Day 2: Source Code Management Tool (Git)}}$$
 
 ## 1. Version Control Systems (VCS)
 
@@ -75,7 +75,7 @@ git restore <file>
 
 ---
 
-# Day 3: Git Branching and Remote Repositories
+$${\color{blue}\textbf{Day 3: Git Branching and Remote Repositories}}$$
 
 ## 1. Branching
 
@@ -127,7 +127,7 @@ git restore <file>
 
 ---
 
-# Day 4: Collaborating with GitHub
+$${\color{green}\textbf{Day 4: Collaborating with GitHub}}$$
 
 ## 1. GitHub Dashboard
 
@@ -148,7 +148,7 @@ git restore <file>
 
 ---
 
-# Day 5: Advanced Git and GitLab
+$${\color{purple}\textbf{Day 5: Advanced Git and GitLab}}$$
 
 ## 1. GitHub vs GitLab
 

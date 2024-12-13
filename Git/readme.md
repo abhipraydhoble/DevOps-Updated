@@ -180,7 +180,7 @@ $${\color{purple}\textbf{Day 5: Advanced Git and GitLab}}$$
 ## 4. Integrated Development Environment (IDE)
 
 ### Visual Studio Code
-- **Installation:** $${\color{red}\textbf{Download from the [VS Code Website](https://code.visualstudio.com/).}}$$
+- **Installation:** Download from the [VS Code Website](https://code.visualstudio.com/).
 - **Features:**
   - $${\color{blue}\textbf{Syntax highlighting.}}$$
   - $${\color{blue}\textbf{Extensions for Git and other integrations.}}$$
